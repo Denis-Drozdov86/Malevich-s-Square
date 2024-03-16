@@ -1,0 +1,43 @@
+
+
+.rectBig {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	background: #000;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border: 85px solid gold;
+	border-image: url('images/bord.jpg') 105;
+}
+
+.messageOut {
+	margin: 5px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.photo1 {
+	position: relative;
+	top: 210px;
+	left: 210px;
+}
+
+.photo1 img {
+	cursor: pointer;
+	width: 100px;
+	height:110px;
+}
+
+.photo2 {
+	position: relative;
+	top: 210px;
+	left: 210px;
+}
+
+.photo2 img {
+	cursor: pointer;
+	width: 115px;
+	height: 115px;
+}
